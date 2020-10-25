@@ -21,7 +21,8 @@ model/bert/chinese_roberta_wwm_ext_pytorch
 
 ***
 
-环境：pytorch 1.5.0 + cuda10.1, 
-transformers 3 及以上版本
+环境：pytorch 1.5.0 + cuda10.1,  
+
+python3.6.9, transformers 3 及以上版本
 
 
