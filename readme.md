@@ -14,4 +14,4 @@ model/bert/chinese_roberta_wwm_ext_pytorch
 程序入口：run.py   
 设置 do_prediction 来训练或测试  
 
-
+测试准确率：91%
