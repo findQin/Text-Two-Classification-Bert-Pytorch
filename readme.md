@@ -14,4 +14,14 @@ model/bert/chinese_roberta_wwm_ext_pytorch
 程序入口：run.py   
 设置 do_prediction 来训练或测试  
 
+使用多块 GPU：
+如设置 gpu_ids = "1,2,3"
+
 测试准确率：91%
+
+***
+
+环境：pytorch 1.5.0 + cuda10.1, 
+transformers 3 以上版本
+
+
