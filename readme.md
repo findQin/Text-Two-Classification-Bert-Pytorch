@@ -7,4 +7,11 @@
 model/bert/chinese_roberta_wwm_ext_pytorch
 
 + config.json
-+ pytorch_model.bin
++ pytorch_model.bin  
+
+***
+
+程序入口：run.py   
+设置 do_prediction 来训练或测试  
+
+
